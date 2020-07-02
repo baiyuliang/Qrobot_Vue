@@ -1,5 +1,7 @@
 # qrobot
 
+![1](https://img-blog.csdnimg.cn/20200701172427467.png)
+
 ## Project setup
 ```
 npm install
