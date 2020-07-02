@@ -1,6 +1,6 @@
 # qrobot
 
-![1](https://img-blog.csdnimg.cn/20200701172427467.png)
+![qrobot](https://img-blog.csdnimg.cn/20200701172427467.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaXl1bGlhbmcyMDEz,size_16,color_FFFFFF,t_70)
 
 ## Project setup
 ```
